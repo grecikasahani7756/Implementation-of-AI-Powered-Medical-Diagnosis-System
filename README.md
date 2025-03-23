@@ -1,1 +1,1 @@
-# Implementation-of-AI-Powered-Medical-Diagnosis-System
+This is a AI Powered Medical Diagnosis System :)
